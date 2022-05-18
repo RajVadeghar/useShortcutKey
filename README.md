@@ -30,14 +30,12 @@ const Example = () => {
 };
 ```
 
-As you've seen in above example. You can use button onClick to run a function (or) you can use this hook to create shortcut for handling the function
+As you've seen in above example. You can use button onClick property to run a function (or) you can use this hook to create shortcut for handling the function
 
-> **_NOTE:_** The shortcuts you use will over ride default behaviour of browser. If you use "Control", "p" inside of this hook it overrides default behaviour of web browser which is print
+> **_NOTE:_** The shortcuts you use will override default behaviour of web browser. If you use "Control", "p" inside of this hook it overrides default behaviour of web browser which is print.
 
 ## License
 
 MIT © [RajVadeghar](https://github.com/RajVadeghar)
 
 ---
-
-This hook is created using [create-react-hook](https://github.com/hermanya/create-react-hook).
